@@ -1,18 +1,19 @@
  .sas {
     background-color: rgb(240, 128, 128);
-    font-family: Verdana, 'DejaVu Sans', sans-serif; 
+    font-family: Verdana, "DejaVu Sans", sans-serif; 
  }
 
  #one {
     color: rgb(0, 0, 255); 
-    font-size: "36px"; 
+    font-size: 36px; 
  }
 
   .sas.fras {
-    font-size: "24px"; 
+    font-size: 24px; 
 }
 
  #two {
     background-color: rgb(84, 237, 84);
-    font-size: "24px";
+    font-size: 24px;
+    font-weight: bold; 
  }
