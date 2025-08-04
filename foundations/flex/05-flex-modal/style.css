@@ -20,6 +20,7 @@ body {
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
+  padding: 20px;
 }
 
 .icon {
@@ -66,4 +67,24 @@ button.cancel {
   background: white;
   border: 1px solid #ddd;
   color: royalblue;
+}
+
+.topmodal {
+  display: flex;
+  flex-direction: row;
+}
+
+.header {
+  font-weight: bold;
+  font-size: 20px;
+  margin: 0 auto 0 20px;
+}
+
+.para {
+  margin-left: 62px;
+}
+
+.concanbutton {
+  display: flex;
+  margin: 10px 0 0 62px;
 }
